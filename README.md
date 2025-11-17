@@ -5,7 +5,7 @@
 DOI:</br>
 PDF:</br>
 
-**Dataset:** https://huggingface.co/datasets/Mosab-Rezaei/19th-century-novelists-sentences  
+**Dataset:** https://huggingface.co/datasets/Mosab-Rezaei/19th-century-novelists 
 </br>
 
 **Cite:**  </br>
